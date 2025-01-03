@@ -14,7 +14,7 @@ Antes de iniciar, vamos configurar os arquivos necessários para que tudo funcio
    CLIENT_TOKEN="seu token do bot"
 
    # Configurações do Banco de Dados (substitua pelos dados do seu banco MySQL)
-   DATABASE_URL="mysql://usuario:senha@localhost:3306/nome_do_banco"
+   DATABASE_URL="mysql://root:app_base_password@localhost:3306/app_base_database"
    ```  
 
 2. **Renomeie o arquivo**:  
