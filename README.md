@@ -1,5 +1,3 @@
-Aqui está uma versão revisada e mais didática do seu README:  
-
 ---
 
 # 📖 Configuração do Projeto  
